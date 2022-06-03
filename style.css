@@ -49,7 +49,7 @@ body {
    
 }
 button {
-
+cursor: pointer;
 padding-left: 20px;
 color: rgb(255, 255, 255);
 font-size:70px;
